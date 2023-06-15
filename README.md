@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @estedoode
-- 👀 I’m interested in machine learning. 
-- 🌱 I’m currently learning python, sklearn, numPy, and Jupyter Notebook. 
-- 💞️ I’m looking to collaborate on anything that involves problem-solving. 
+- Hi, my name is Shane.
+- I am a physics major with a strong interest in biology; therefore, I look to get involved using physics and other tools to explain biological phenomenon.  
+- Anyway I hope to eventually use github and post some of my work or personal projects here.
 
 
-<!---
-estedoode/estedoode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
