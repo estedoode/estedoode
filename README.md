@@ -1,3 +1,4 @@
-- Hi, my name is Shane.
-- I am a physics major with a strong interest in biology; therefore, I look to get involved using physics and other tools to explain biological phenomenon.  
-- In the near future, I hope to post some of my work or personal projects here.
+- Shane
+- Physics background pursuing PhD in Biomedical Engineering   
+- Conducts Research in Neuroengineering
+
